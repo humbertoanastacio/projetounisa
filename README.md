@@ -5,7 +5,7 @@ O objetivo é demonstrar a integração entre **Java** e **MySQL**, criando um s
 
 
 
-#Tecnologias Utilizadas
+# Tecnologias Utilizadas
 - **Java (JDK 21)**  
 - **MySQL 8.0**  
 - **JDBC (MySQL Connector/J 9.4.0)**  
