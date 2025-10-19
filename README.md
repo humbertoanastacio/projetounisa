@@ -12,11 +12,8 @@ O objetivo é demonstrar a integração entre **Java** e **MySQL**, criando um s
 - **IDE:** Visual Studio Code  
 - **Sistema Operacional:** Windows 10/11  
 
-
-# Estrutura do Projeto
-
 Autor:
 
-Humberto Anastácio Filho
+Humberto Anastácio
 📍 São Paulo, SP
 💼 Estudante de Análise e Desenvolvimento de Sistemas
