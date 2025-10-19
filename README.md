@@ -1,18 +1,23 @@
-## Getting Started
+# 🧠 Projeto UNISA — Sistema Java com MySQL
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Este projeto foi desenvolvido como parte da disciplina de **Análise e Desenvolvimento de Sistemas** na UNISA.  
+O objetivo é demonstrar a integração entre **Java** e **MySQL**, criando um sistema de cadastro e listagem de alunos.
 
-## Folder Structure
+---
 
-The workspace contains two folders by default, where:
+## Tecnologias Utilizadas
+- **Java (JDK 21)**  
+- **MySQL 8.0**  
+- **JDBC (MySQL Connector/J 9.4.0)**  
+- **IDE:** Visual Studio Code  
+- **Sistema Operacional:** Windows 10/11  
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
+---
 
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
+## Estrutura do Projeto
 
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+🧠 Autor
 
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+Humberto Anastácio Filho
+📍 São Paulo, SP
+💼 Estudante de Análise e Desenvolvimento de Sistemas
